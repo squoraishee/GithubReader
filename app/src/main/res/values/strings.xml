@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubReader</string>
+    <string name="exists">Orgs are filtered alphabetically as you type. Click on a result to goto its popular repos. If you do not see an org appear in the list as you type, try searching for it anyway, e.g nytimes, and hit the Search Key</string>
+</resources>
